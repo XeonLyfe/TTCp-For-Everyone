@@ -1,0 +1,12 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "tudbut.mod.client.ttcp.mixin",
+    "mixins": [
+        "MixinSoundHandler",
+        "MixinClientConnection",
+        "MixinParticleManager",
+        "MixinEntityRenderer"
+    ],
+    "client": [],
+    "server": []
+}
